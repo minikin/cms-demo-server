@@ -1,76 +1,2261 @@
 {
-  "vehicles": [
-    {
-      "id": 1,
-      "name": "000011",
-      "description": "Electric Scooter",
-      "latitude": 52.529077,
-      "longitude": 13.416351,
-      "batteryLevel": 98,
-      "timestamp": "2019-03-10T09:31:56Z",
-      "price": 15,
-      "priceTime": 60,
-      "currency": "€"
+  "posts": [
+    { "id" : 1,
+      "bodies":{
+         "content":{
+            "0":{
+               "entities":{
+                  "0":{
+                     "cs_category":{
+                        "fs_id":133,
+                        "key":"gsnd_app_gesunder_lebensstil",
+                        "name":"gesunder Lebensstil",
+                        "snippetsList":"snippetsList_[#2]"
+                     },
+                     "fs_id":192,
+                     "st_elements":{
+                        "0":{
+                           "editors":{
+                              "st_dom":{
+                                 "0":{
+                                    "content":{
+                                       "0":"The Last Good Summer"
+                                    },
+                                    "template":{
+                                       "name":"h1"
+                                    }
+                                 },
+                                 "1":{
+                                    "content":{
+                                       "0":"In the fall of 2015, Carole Radziwill, author, former reality television star, and ",
+                                       "1":{
+                                          "content":{
+                                             "1":{
+                                                "content":{
+                                                   "0":"owner of a famous couch",
+                                                   "1":{
+                                                      "editors":{
+                                                         "lt_external_url":"https://www.bravotv.com/the-real-housewives-of-new-york-city/most-wanted/carole-radziwill-fixed-lee-radziwills-couch-see-results",
+                                                         "lt_isExternal":true,
+                                                         "lt_link_title":"Link",
+                                                         "lt_style":"",
+                                                         "lt_text":"owner of a famous couch"
+                                                      },
+                                                      "template":{
+                                                         "name":"lt_link"
+                                                      }
+                                                   }
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             }
+                                          },
+                                          "editors":{
+                                             "pre":"?",
+                                             "style":"1"
+                                          },
+                                          "template":{
+                                             "name":"ul"
+                                          }
+                                       },
+                                       "2":" , sat down to a televised lunch with her then-friend and coworker Bethenny Frankel. The two were filming a scene that would air during ",
+                                       "3":{
+                                          "content":{
+                                             "0":"Episode 2"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "4":" of Season 8 of the Real Housewives of New York a year later, and the issue du jour was Radziwill's relationship with her boyfriend, ",
+                                       "5":{
+                                          "content":{
+                                             "0":"Adam Kenworthy"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "6":", who is almost a quarter of a century younger than her..."
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "2":{
+                                    "content":{
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 }
+                              },
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"6e1ce786-b5c9-45f1-9614-52ebecf938b2",
+                           "template":{
+                              "display_name":"Text",
+                              "name":"st_dom",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "1":{
+                           "editors":{
+                              "st_img_ref":{
+                                 "media":{
+                                    "description":null,
+                                    "hasMeta":null
+                                 },
+                                 "type":"mediaref"
+                              },
+                              "st_isImgRefResponsive":false,
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"95e0fc93-6ba3-4c55-8401-5ea2ddd8103f",
+                           "template":{
+                              "display_name":"Bild",
+                              "name":"st_picture",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "2":{
+                           "editors":{
+                              "st_dom":{
+                                 "0":{
+                                    "content":{
+                                       "0":"\"How is it going with ",
+                                       "1":{
+                                          "content":{
+                                             "0":"Adam?\""
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":" Frankel asked Radziwill, who was in her early ",
+                                       "3":{
+                                          "content":{
+                                             "0":"50s"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "4":" at the time, before probing further: \"Could you be with him for ",
+                                       "5":{
+                                          "content":{
+                                             "0":"ten"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "6":" years? ",
+                                       "7":{
+                                          "content":{
+                                             "0":"Could"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "8":" that happen?\""
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "1":{
+                                    "content":{
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "2":{
+                                    "content":{
+                                       "0":"\"It's a great relationship. It's just, I'm really happy,\" was Radiziwill's response. And then, Frankel, known above all else for not beating ",
+                                       "1":{
+                                          "content":{
+                                             "0":"around"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":" the ",
+                                       "3":{
+                                          "content":{
+                                             "0":"bush,"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "4":" presented the key question:\"What would stop it, if nothing stopped it in the first year?\""
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "3":{
+                                    "content":{
+                                       
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "4":{
+                                    "content":{
+                                       "0":"\"He wants kids. He wants ",
+                                       "1":{
+                                          "content":{
+                                             "0":"different things in life"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":", and he should have them, and I hope he gets everything he wants,\" Radziwill replied. \"We do love each other. I told him, I only have like five good summers left. He has like 20.\""
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 }
+                              },
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"cfeb804d-ee1f-4e80-a8a3-4c0d44ce1983",
+                           "template":{
+                              "display_name":"Text",
+                              "name":"st_dom",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "3":{
+                           "editors":{
+                              "st_img_ref":{
+                                 "media":{
+                                    "description":null,
+                                    "hasMeta":null
+                                 },
+                                 "type":"mediaref"
+                              },
+                              "st_isImgRefResponsive":false,
+                              "st_resolution":"2_3",
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"bbc5c51a-81af-4925-b278-c52750f27919",
+                           "template":{
+                              "display_name":"Bild",
+                              "name":"st_picture",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "4":{
+                           "editors":{
+                              "st_dom":{
+                                 "0":{
+                                    "content":{
+                                       "1":{
+                                          "content":{
+                                             "0":"I only have like five good summers left."
+                                          },
+                                          "template":{
+                                             "name":"i"
+                                          }
+                                       },
+                                       "2":" The words spewed out of television sets across the world, astounding Bravo-watchers everywhere. If Radziwill, a successful, beautiful woman-about-town only had a few good summers left?so few she could specify and count them on one hand?where did that leave the rest of us?"
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "1":{
+                                    "content":{
+                                       
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "2":{
+                                    "content":{
+                                       "0":"\"The five summers plan does not mean I will be dead in five years,\" Radziwill explained in an interview producers cut to ",
+                                       "1":{
+                                          "content":{
+                                             "0":"immediately"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":" after her shocking statement. \"It simply means that I am very aware of the fact that in five years I might be in a very different place in my life. So I am very careful about my use of time, much more careful than I was even in my 40s.\""
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "3":{
+                                    "content":{
+                                       
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "4":{
+                                    "content":{
+                                       "0":"Though she's been off the show for a few ",
+                                       "1":{
+                                          "content":{
+                                             "0":"years"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":" now, the ?five good summers left? concept has not left the ether; take, for instance, the dozens of t-shirts available for purchase emblazoned with variations on the phrase, including one from the ",
+                                       "3":{
+                                          "content":{
+                                             "0":"Real Housewives"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "4":" podcast Bitch Sesh that reads \"Carole's Last Great Summer,\" the ",
+                                       "5":{
+                                          "content":{
+                                             "0":"words spelled"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "6":" out in a 70s-esque font above a leaping dolphin."
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 }
+                              },
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"ab469bca-e787-46da-995c-4f2ed4e4fe0a",
+                           "template":{
+                              "display_name":"Text",
+                              "name":"st_dom",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "5":{
+                           "editors":{
+                              "st_img_ref":{
+                                 "media":{
+                                    "description":null,
+                                    "hasMeta":null
+                                 },
+                                 "type":"mediaref"
+                              },
+                              "st_isImgRefResponsive":false,
+                              "st_resolution":"4_3",
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"fb304cb4-3f75-496d-a9b0-ea341cb65b5c",
+                           "template":{
+                              "display_name":"Bild",
+                              "name":"st_picture",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "6":{
+                           "editors":{
+                              "st_dom":{
+                                 "0":{
+                                    "content":{
+                                       "0":"I'd put it out of ",
+                                       "1":{
+                                          "content":{
+                                             "0":"mind myself"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":", but ",
+                                       "3":{
+                                          "content":{
+                                             "0":"this"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "4":" year, it ",
+                                       "5":{
+                                          "content":{
+                                             "0":"came"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "6":" ",
+                                       "7":{
+                                          "content":{
+                                             "0":"back around"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "8":", taking on new meaning, when fans of the franchise ",
+                                       "9":{
+                                          "content":{
+                                             "0":"began"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "10":" to realize that the summer of 2020, in all its inescapable misery, was, ",
+                                       "11":{
+                                          "content":{
+                                             "0":"according"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "12":" to her original timeline, Carole's actual last good summer. \"Just made the realization that this is Caroles last good summer. Wow. Really goin out with a bang,\" Samantha Bush, who runs the Instagram account @BravoHistorian, wrote in May.",
+                                       "13":{
+                                          "content":{
+                                             "1":{
+                                                "content":{
+                                                   "0":"One"
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "3":{
+                                                "content":{
+                                                   "0":"Two"
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "5":{
+                                                "content":{
+                                                   "0":"Three"
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "7":{
+                                                "content":{
+                                                   "0":"Four"
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "9":{
+                                                "content":{
+                                                   "0":"Five"
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             }
+                                          },
+                                          "editors":{
+                                             "pre":"?",
+                                             "style":"1"
+                                          },
+                                          "template":{
+                                             "name":"ul"
+                                          }
+                                       }
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "1":{
+                                    "content":{
+                                       "0":"The words struck me too?what a strange, idiotic coincidence, the kind of anniversary you either actively look for while trying to make sense of your life, or stumble across with glee. A summer that for the majority of people on Earth was in many ways like no summer they had ever had before, and not one they would want to repeat again, would be Carole's last good one.",
+                                       "1":{
+                                          "content":{
+                                             "1":{
+                                                "content":{
+                                                   "0":"One"
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "3":{
+                                                "content":{
+                                                   "1":{
+                                                      "content":{
+                                                         "0":"Two"
+                                                      },
+                                                      "editors":{
+                                                         "pre":"?",
+                                                         "style":"1"
+                                                      },
+                                                      "template":{
+                                                         "name":"b"
+                                                      }
+                                                   }
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "5":{
+                                                "content":{
+                                                   "1":{
+                                                      "content":{
+                                                         "0":"Three"
+                                                      },
+                                                      "editors":{
+                                                         "pre":"?",
+                                                         "style":"1"
+                                                      },
+                                                      "template":{
+                                                         "name":"b"
+                                                      }
+                                                   }
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "7":{
+                                                "content":{
+                                                   "1":{
+                                                      "content":{
+                                                         "0":"Four"
+                                                      },
+                                                      "editors":{
+                                                         "pre":"?",
+                                                         "style":"1"
+                                                      },
+                                                      "template":{
+                                                         "name":"i"
+                                                      }
+                                                   }
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             },
+                                             "9":{
+                                                "content":{
+                                                   "1":{
+                                                      "content":{
+                                                         "0":"Five"
+                                                      },
+                                                      "editors":{
+                                                         "pre":"?",
+                                                         "style":"1"
+                                                      },
+                                                      "template":{
+                                                         "name":"b"
+                                                      }
+                                                   }
+                                                },
+                                                "editors":{
+                                                   "pre":"?",
+                                                   "style":"1"
+                                                },
+                                                "template":{
+                                                   "name":"li"
+                                                }
+                                             }
+                                          },
+                                          "editors":{
+                                             "pre":"?",
+                                             "style":"1"
+                                          },
+                                          "template":{
+                                             "name":"ul"
+                                          }
+                                       }
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 },
+                                 "2":{
+                                    "content":{
+                                       "0":"If Radziwill truly was so systematic in her approach to assessing and using her time, she was doing something we have all been forced to think about a lot lately. For the young and the privileged, the idea of Just five good summers is ",
+                                       "1":{
+                                          "content":{
+                                             "0":"unfathomable,"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "2":" a ",
+                                       "3":{
+                                          "content":{
+                                             "0":"concept"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "4":" to regard with shock and awe, sympathy and fear. But there is nothing horrifying about trying to create a set of rules, of guidelines for ",
+                                       "5":{
+                                          "content":{
+                                             "0":"yourself,"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "6":" the way Radziwill was doing. It?s a way to understand and frame your choices, your life, your ",
+                                       "7":{
+                                          "content":{
+                                             "0":"future"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "8":"?and it?s something we all do with regularity in all aspects of our lives, and with new, constantly shifting urgency right now, given how messy and ",
+                                       "9":{
+                                          "content":{
+                                             "0":"unsystematized"
+                                          },
+                                          "template":{
+                                             "name":"b"
+                                          }
+                                       },
+                                       "10":" the world has become."
+                                    },
+                                    "template":{
+                                       "name":"p"
+                                    }
+                                 }
+                              },
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"56c961fa-5d2e-47f7-ac1b-5c1e0be3b820",
+                           "template":{
+                              "display_name":"Text",
+                              "name":"st_dom",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        },
+                        "7":{
+                           "editors":{
+                              "st_img_ref":{
+                                 "media":{
+                                    "description":null,
+                                    "hasMeta":null
+                                 },
+                                 "type":"mediaref"
+                              },
+                              "st_isImgRefResponsive":false,
+                              "st_resolution":"3_4",
+                              "st_responsive_grid_desktop":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_smartphone":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              },
+                              "st_responsive_grid_tablet":{
+                                 "tt_column":12,
+                                 "tt_name":"12"
+                              }
+                           },
+                           "hasMeta":null,
+                           "sectionId":"dccee327-3386-490f-b125-376b77bf263e",
+                           "template":{
+                              "display_name":"Bild",
+                              "name":"st_picture",
+                              "type":"de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                           },
+                           "uid":""
+                        }
+                     },
+                     "tt_name":"Last good summer",
+                     "uuid":"66a3ff16-4678-45c5-896f-a39a154b3ce1"
+                  }
+               },
+               "meta":{
+                  "hasMeta":false
+               },
+               "multipageparams":{
+                  "data.size":5,
+                  "entitiesPerPage":1,
+                  "offset":0,
+                  "pageCount":5
+               },
+               "sectionId":5518700,
+               "template":{
+                  "display_name":"snippets",
+                  "name":"content_snippets.snippets",
+                  "type":"de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+               },
+               "uid":"snippets"
+            }
+         }
+      },
+      "editors":{
+         
+      },
+      "filename":"snippet",
+      "meta":{
+         "node":{
+            "add":{
+               "md_datalayer":{
+                  "0":{
+                     
+                  }
+               },
+               "md_nav":{
+                  "0":{
+                     
+                  }
+               }
+            },
+            "hasMeta":false,
+            "inherit":{
+               "md_change_pagetitle_suffix":false,
+               "md_datalayer":{
+                  
+               },
+               "md_nav":{
+                  
+               },
+               "md_nofollow":false,
+               "md_noindex":false,
+               "md_pagetitle_suffix":" | Gothaer",
+               "md_structureddata":{
+                  
+               }
+            },
+            "none":{
+               
+            }
+         },
+         "page":{
+            "hasMeta":false
+         }
+      },
+      "nodeId":5568843,
+      "nodeuid":"snippets_all",
+      "pageId":5518699,
+      "pageuid":"snippets_1",
+      "projectProperties":{
+         "ps_contentsupplier_preview_uri":"https://www.inter.dev1.gothaer.test/renderjson/?stage=fs5preview",
+         "ps_default_kampagnenschluessel":"51010111001",
+         "ps_error_kampagnenschluessel":"51010111002",
+         "ps_meta_add_blacklist":"md_canonical_reference,md_change_pagetitle_suffix,md_meta_description,md_nofollow,md_noindex,md_pagetitle,md_pagetitle_suffix,md_search_description,md_search_keywords,md_structureddata,md_canonical_url",
+         "ps_seo_kampagnenschluessel":"51090111013"
+      },
+      "sitestore":{
+         "1":{
+            "active":false,
+            "children":{
+               "2":{
+                  "label":"elan_einstieg",
+                  "lastmod":1571840925552,
+                  "page_id":5523752,
+                  "parent_index":1,
+                  "ref":"/de-1/elan/elan-einstieg.json"
+               },
+               "3":{
+                  "label":"elan_einstieg_makler",
+                  "lastmod":1571823928979,
+                  "page_id":5523759,
+                  "parent_index":1,
+                  "ref":"/de-1/elan/elan-einstieg-makler.json"
+               }
+            },
+            "folder_id":5523751,
+            "id":5523752,
+            "label":"ELAN",
+            "lastmod":1571840925552,
+            "ref":"/de-1/elan/elan-einstieg.json"
+         },
+         "4":{
+            "active":false,
+            "children":{
+               "5":{
+                  "active":false,
+                  "children":{
+                     "6":{
+                        "label":"pt_standard_10",
+                        "lastmod":1579878744811,
+                        "page_id":5523775,
+                        "parent_index":5,
+                        "ref":"/de-1/taa/kvvoll/pt-standard-10.json"
+                     }
+                  },
+                  "folder_id":5523774,
+                  "id":5523775,
+                  "label":"KVVoll",
+                  "lastmod":1579878744811,
+                  "parent_index":4,
+                  "ref":"/de-1/taa/kvvoll/pt-standard-10.json"
+               }
+            },
+            "folder_id":5523773,
+            "id":5523775,
+            "label":"TAA",
+            "lastmod":1579878744811,
+            "ref":"/de-1/taa/kvvoll/pt-standard-10.json"
+         },
+         "7":{
+            "active":false,
+            "children":{
+               "8":{
+                  "active":false,
+                  "children":{
+                     "9":{
+                        "label":"gesund_app_html_snippet_1",
+                        "lastmod":1600422757888,
+                        "page_id":5568815,
+                        "parent_index":8,
+                        "ref":"/de-1/gesund-app/gesunder-lebensstil/familiengesundheit.json"
+                     }
+                  },
+                  "folder_id":5568839,
+                  "id":5568815,
+                  "label":"gesunder Lebensstil",
+                  "lastmod":1600422757888,
+                  "parent_index":7,
+                  "ref":"/de-1/gesund-app/gesunder-lebensstil/familiengesundheit.json"
+               },
+               "10":{
+                  "active":false,
+                  "children":{
+                     "11":{
+                        "label":"gesund_app_html_snippet_2",
+                        "lastmod":1598455682302,
+                        "page_id":5568817,
+                        "parent_index":10,
+                        "ref":"/de-1/gesund-app/services/kaia.json"
+                     }
+                  },
+                  "folder_id":5568840,
+                  "id":5568817,
+                  "label":"services",
+                  "lastmod":1598455682302,
+                  "parent_index":7,
+                  "ref":"/de-1/gesund-app/services/kaia.json"
+               },
+               "12":{
+                  "label":"gesund_app_html_snippet",
+                  "lastmod":1600340662955,
+                  "page_id":5568813,
+                  "parent_index":7,
+                  "ref":"/de-1/gesund-app/gesund-app-html-snippet.json"
+               }
+            },
+            "folder_id":5568838,
+            "id":5568813,
+            "label":"gesund_app",
+            "lastmod":1600340662955,
+            "ref":"/de-1/gesund-app/gesund-app-html-snippet.json"
+         },
+         "13":{
+            "active":true,
+            "children":{
+               "14":{
+                  "active":true,
+                  "children":{
+                     "15":{
+                        "label":"gesund_app_html_snippet",
+                        "lastmod":1600340662955,
+                        "page_id":5568848,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/gesund-app-html-snippet.json"
+                     },
+                     "16":{
+                        "label":"snippet_beispiel",
+                        "lastmod":1598455682302,
+                        "page_id":5568847,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-beispiel.json"
+                     },
+                     "17":{
+                        "label":"snippet_categories",
+                        "lastmod":1598455682302,
+                        "page_id":5568819,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-categories.json"
+                     },
+                     "18":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568843,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-192.json"
+                     },
+                     "19":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568843,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-131.json"
+                     },
+                     "20":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568843,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-130.json"
+                     },
+                     "21":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568843,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-129.json"
+                     },
+                     "22":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568843,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-128.json"
+                     },
+                     "23":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568845,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-192-2.json"
+                     },
+                     "24":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568845,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-129-2.json"
+                     },
+                     "25":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568846,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-131-2.json"
+                     },
+                     "26":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568844,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-130-2.json"
+                     },
+                     "27":{
+                        "label":"snippets_1",
+                        "lastmod":1563199936074,
+                        "page_id":5568844,
+                        "parent_index":14,
+                        "ref":"/de-1/gesund/app/snippet-128-2.json"
+                     }
+                  },
+                  "folder_id":5568842,
+                  "id":5568819,
+                  "label":"app",
+                  "lastmod":1598455682302,
+                  "parent_index":13,
+                  "ref":"/de-1/gesund/app/snippet-categories.json"
+               }
+            },
+            "folder_id":5568841,
+            "id":5568819,
+            "label":"gesund",
+            "lastmod":1598455682302,
+            "ref":"/de-1/gesund/app/snippet-categories.json"
+         },
+         "28":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-7363.json"
+         },
+         "29":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-7322.json"
+         },
+         "30":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-7096.json"
+         },
+         "31":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-7025.json"
+         },
+         "32":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6857.json"
+         },
+         "33":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6725.json"
+         },
+         "34":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6657.json"
+         },
+         "35":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6550.json"
+         },
+         "36":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6459.json"
+         },
+         "37":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6348.json"
+         },
+         "38":{
+            "label":"key_value_cp",
+            "lastmod":1571844910029,
+            "page_id":5523766,
+            "ref":"/de-1/key-value-cp-6343.json"
+         }
+      },
+      "template":{
+         "display_name":"pt_standard",
+         "name":"pt_standard",
+         "type":"de.espirit.firstspirit.store.access.templatestore.PageTemplateImpl"
+      }
+   },
+   {
+    "id" : 2,
+    "bodies": {
+      "content": {
+        "0": {
+          "entities": {
+            "0": {
+              "cs_key": "gsnd_app_unterstuetzung_im_krankheitsfall",
+              "cs_name": "Unterstützung im Krankheitsfall",
+              "cs_snippetslist": {
+                "0": {
+                  "editors": {
+                    "cs_category": {
+                      "fs_id": 194,
+                      "key": "gsnd_app_unterstuetzung_im_krankheitsfall",
+                      "name": "Unterstützung im Krankheitsfall",
+                      "snippetsList": "snippetsList_[#2]"
+                    },
+                    "st_elements": {
+                      "0": {
+                        "editors": {
+                          "st_dom": {
+                            "0": {
+                              "content": {
+                                "0": "Mit Tinnitracks und Ihrer Lieblingsmusik können Sie störende Ohrgeräusche leiser trainieren."
+                              },
+                              "template": {
+                                "name": "h1"
+                              }
+                            },
+                            "1": {
+                              "content": {
+                                "0": "Die Trinnitracks-App bereitet Ihre Lieblingsmusik für die Behandlung Ihres Tinnitus individuell auf. Die Wirksamkeit der Therapie wurde in klinischen Studien überprüft und bestätigt."
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "2": {
+                              "content": {
+                                "0": "Tinniracks bietet Ihnen "
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "3": {
+                              "content": {
+                                "0": "?\teine individuelle, nachhaltige Therapie der Tinnitus-Ursache"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "4": {
+                              "content": {
+                                "0": "?\twissenschaftlich bestätigte Therapiewirkung und"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "5": {
+                              "content": {
+                                "0": "?\teine unkomplizierte Anwendung"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "6": {
+                              "content": {},
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "7": {
+                              "content": {
+                                "1": {
+                                  "editors": {
+                                    "lt_external_url": "https://www.tinnitracks.com",
+                                    "lt_isExternal": true,
+                                    "lt_style": "primary",
+                                    "lt_text": "mehr erfahren"
+                                  },
+                                  "template": {
+                                    "name": "lt_button"
+                                  }
+                                }
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            }
+                          },
+                          "st_responsive_grid_desktop": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_smartphone": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_tablet": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          }
+                        },
+                        "hasMeta": null,
+                        "sectionId": "48650e81-b14c-4e8a-b038-a1d165aa9862",
+                        "template": {
+                          "display_name": "Text",
+                          "name": "st_dom",
+                          "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                        },
+                        "uid": ""
+                      }
+                    },
+                    "tt_name": "Tinnitus therapieren: Tinnitracks"
+                  },
+                  "hasMeta": null,
+                  "sectionId": "196",
+                  "template": {
+                    "display_name": "snippets",
+                    "name": "content_snippets.snippets",
+                    "type": "de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+                  },
+                  "uid": ""
+                },
+                "1": {
+                  "editors": {
+                    "cs_category": {
+                      "fs_id": 194,
+                      "key": "gsnd_app_unterstuetzung_im_krankheitsfall",
+                      "name": "Unterstützung im Krankheitsfall",
+                      "snippetsList": "snippetsList_[#2]"
+                    },
+                    "st_elements": {
+                      "0": {
+                        "editors": {
+                          "st_dom": {
+                            "0": {
+                              "content": {
+                                "0": "Selfapy bietet effektive und anonyme Online-Therapien bei psychischen Belastungen"
+                              },
+                              "template": {
+                                "name": "h1"
+                              }
+                            },
+                            "1": {
+                              "content": {
+                                "0": "Die dreimonatigen Programme begleiten Menschen mit Depressionen, Stress oder Angststörungen. Sie bieten die Möglichkeit:"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "2": {
+                              "content": {
+                                "0": "?\tWartezeiten auf einen Therapieplatz zu überbrücken"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "3": {
+                              "content": {
+                                "0": "?\tTechniken zu erlernen, mit denen Sie Ihrem Alltag eine Struktur geben und"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "4": {
+                              "content": {
+                                "0": "?\tIhre individuelle Situation selbstständig zum Besseren zu verändern"
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "5": {
+                              "content": {
+                                "1": {
+                                  "editors": {
+                                    "lt_external_url": "https://www.selfapy.de",
+                                    "lt_isExternal": true,
+                                    "lt_style": "primary",
+                                    "lt_text": "mehr erfahren"
+                                  },
+                                  "template": {
+                                    "name": "lt_button"
+                                  }
+                                }
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            }
+                          },
+                          "st_responsive_grid_desktop": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_smartphone": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_tablet": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          }
+                        },
+                        "hasMeta": null,
+                        "sectionId": "5edfb65c-1c78-4c3b-9c58-30450cf8943f",
+                        "template": {
+                          "display_name": "Text",
+                          "name": "st_dom",
+                          "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                        },
+                        "uid": ""
+                      }
+                    },
+                    "tt_name": "Psychische Probleme lösen: Selfapy"
+                  },
+                  "hasMeta": null,
+                  "sectionId": "197",
+                  "template": {
+                    "display_name": "snippets",
+                    "name": "content_snippets.snippets",
+                    "type": "de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+                  },
+                  "uid": ""
+                }
+              },
+              "fs_id": 194,
+              "uuid": "null"
+            },
+            "1": {
+              "cs_key": "gsnd_app_gesunder_lebensstil",
+              "cs_name": "gesunder Lebensstil",
+              "cs_snippetslist": {
+                "0": {
+                  "editors": {
+                    "cs_category": {
+                      "fs_id": 193,
+                      "key": "gsnd_app_gesunder_lebensstil",
+                      "name": "gesunder Lebensstil",
+                      "snippetsList": "snippetsList_[#1]"
+                    },
+                    "st_elements": {
+                      "0": {
+                        "editors": {
+                          "st_dom": {
+                            "0": {
+                              "content": {
+                                "0": "Stellen Sie jetzt mit uns die Weichen für eine gesunde Entwicklung Ihres Kindes."
+                              },
+                              "template": {
+                                "name": "h1"
+                              }
+                            },
+                            "1": {
+                              "content": {
+                                "0": "Ob Freundeskreis, Schule, Ausbildung oder Beruf: um Sie und Ihr Kind in sämtlichen Lebensbereichen und schwierigen Situationen zu unterstützen, bieten wir Ihnen exklusiv die telefonische Beratung unserer Gesundheitscoaches an."
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "2": {
+                              "content": {
+                                "0": "Ihre Anrufe werden ausschließlich durch unseren Kooperationspartner 4sigma beantwortet und vertraulich behandelt. Die Gothaer Krankenversicherung AG erhält keinen Zugriff auf Ihre Daten."
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "3": {
+                              "content": {
+                                "0": "Je nach gewähltem Mobilfunktarif Ihres Anbieters können für diesen Anruf Kosten anfallen."
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "4": {
+                              "content": {
+                                "1": {
+                                  "editors": {
+                                    "lt_external_url": "tel:01234 1231231",
+                                    "lt_isExternal": true,
+                                    "lt_style": "primary",
+                                    "lt_text": "anrufen"
+                                  },
+                                  "template": {
+                                    "name": "lt_button"
+                                  }
+                                }
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            }
+                          },
+                          "st_responsive_grid_desktop": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_smartphone": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_tablet": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          }
+                        },
+                        "hasMeta": null,
+                        "sectionId": "6c3918e6-703c-4bbc-a2b2-3830eeb122f1",
+                        "template": {
+                          "display_name": "Text",
+                          "name": "st_dom",
+                          "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                        },
+                        "uid": ""
+                      }
+                    },
+                    "tt_name": "Familiengesundheit"
+                  },
+                  "hasMeta": null,
+                  "sectionId": "195",
+                  "template": {
+                    "display_name": "snippets",
+                    "name": "content_snippets.snippets",
+                    "type": "de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+                  },
+                  "uid": ""
+                }
+              },
+              "fs_id": 193,
+              "uuid": "null"
+            },
+            "2": {
+              "cs_key": "gsnd_app_services",
+              "cs_name": "Services",
+              "cs_snippetslist": {
+                "0": {
+                  "editors": {
+                    "cs_category": {
+                      "fs_id": 192,
+                      "key": "gsnd_app_services",
+                      "name": "Services",
+                      "snippetsList": "snippetsList_[#1]"
+                    },
+                    "st_elements": {
+                      "0": {
+                        "editors": {
+                          "st_img_ref": {
+                            "media": {
+                              "description": "Gothaer Versicherungen: Logo des Gothaer Konzerns mit Sitz in Köln",
+                              "hasMeta": false,
+                              "resolutions": {
+                                "1_1_large": {
+                                  "extension": "png",
+                                  "height": 295,
+                                  "mimetype": "image/png",
+                                  "size": 77868,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_1_1_large.png",
+                                  "width": 900
+                                },
+                                "1_1_medium": {
+                                  "extension": "png",
+                                  "height": 252,
+                                  "mimetype": "image/png",
+                                  "size": 57941,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_1_1_medium.png",
+                                  "width": 768
+                                },
+                                "1_1_small": {
+                                  "extension": "png",
+                                  "height": 168,
+                                  "mimetype": "image/png",
+                                  "size": 30036,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_1_1_small.png",
+                                  "width": 512
+                                },
+                                "20_7_large": {
+                                  "extension": "png",
+                                  "height": 629,
+                                  "mimetype": "image/png",
+                                  "size": 323242,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_20_7_large.png",
+                                  "width": 1920
+                                },
+                                "20_7_medium": {
+                                  "extension": "png",
+                                  "height": 472,
+                                  "mimetype": "image/png",
+                                  "size": 188451,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_20_7_medium.png",
+                                  "width": 1440
+                                },
+                                "20_7_small": {
+                                  "extension": "png",
+                                  "height": 419,
+                                  "mimetype": "image/png",
+                                  "size": 150622,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_20_7_small.png",
+                                  "width": 1280
+                                },
+                                "21_9_large": {
+                                  "extension": "png",
+                                  "height": 524,
+                                  "mimetype": "image/png",
+                                  "size": 227009,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_21_9_large.png",
+                                  "width": 1600
+                                },
+                                "21_9_medium": {
+                                  "extension": "png",
+                                  "height": 419,
+                                  "mimetype": "image/png",
+                                  "size": 150622,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_21_9_medium.png",
+                                  "width": 1280
+                                },
+                                "21_9_small": {
+                                  "extension": "png",
+                                  "height": 252,
+                                  "mimetype": "image/png",
+                                  "size": 57941,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_21_9_small.png",
+                                  "width": 768
+                                },
+                                "2_3_large": {
+                                  "extension": "png",
+                                  "height": 197,
+                                  "mimetype": "image/png",
+                                  "size": 36491,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_2_3_large.png",
+                                  "width": 600
+                                },
+                                "2_3_medium": {
+                                  "extension": "png",
+                                  "height": 168,
+                                  "mimetype": "image/png",
+                                  "size": 30036,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_2_3_medium.png",
+                                  "width": 512
+                                },
+                                "2_3_small": {
+                                  "extension": "png",
+                                  "height": 140,
+                                  "mimetype": "image/png",
+                                  "size": 21294,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_2_3_small.png",
+                                  "width": 426
+                                },
+                                "3_2_large": {
+                                  "extension": "png",
+                                  "height": 295,
+                                  "mimetype": "image/png",
+                                  "size": 77868,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_3_2_large.png",
+                                  "width": 900
+                                },
+                                "3_2_medium": {
+                                  "extension": "png",
+                                  "height": 252,
+                                  "mimetype": "image/png",
+                                  "size": 57941,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_3_2_medium.png",
+                                  "width": 768
+                                },
+                                "3_2_small": {
+                                  "extension": "png",
+                                  "height": 210,
+                                  "mimetype": "image/png",
+                                  "size": 41561,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_3_2_small.png",
+                                  "width": 640
+                                },
+                                "3_4_large": {
+                                  "extension": "png",
+                                  "height": 265,
+                                  "mimetype": "image/png",
+                                  "size": 63477,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_3_4_large.png",
+                                  "width": 810
+                                },
+                                "3_4_medium": {
+                                  "extension": "png",
+                                  "height": 236,
+                                  "mimetype": "image/png",
+                                  "size": 51641,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_3_4_medium.png",
+                                  "width": 720
+                                },
+                                "3_4_small": {
+                                  "extension": "png",
+                                  "height": 138,
+                                  "mimetype": "image/png",
+                                  "size": 20755,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_3_4_small.png",
+                                  "width": 420
+                                },
+                                "4_3_large": {
+                                  "extension": "png",
+                                  "height": 472,
+                                  "mimetype": "image/png",
+                                  "size": 188451,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_4_3_large.png",
+                                  "width": 1440
+                                },
+                                "4_3_medium": {
+                                  "extension": "png",
+                                  "height": 335,
+                                  "mimetype": "image/png",
+                                  "size": 99449,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_4_3_medium.png",
+                                  "width": 1024
+                                },
+                                "4_3_small": {
+                                  "extension": "png",
+                                  "height": 210,
+                                  "mimetype": "image/png",
+                                  "size": 41561,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen_4_3_small.png",
+                                  "width": 640
+                                },
+                                "ORIGINAL": {
+                                  "extension": "png",
+                                  "height": 131,
+                                  "mimetype": "image/png",
+                                  "size": 6263,
+                                  "type": "picture",
+                                  "uri": "/media/n/static/logo-gothaer-versicherungen.png",
+                                  "width": 400
+                                }
+                              }
+                            },
+                            "type": "mediaref"
+                          },
+                          "st_isImgRefResponsive": false,
+                          "st_responsive_grid_desktop": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_smartphone": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_tablet": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          }
+                        },
+                        "hasMeta": null,
+                        "sectionId": "d567253c-15cd-4926-b4fe-0400aa7596e1",
+                        "template": {
+                          "display_name": "Bild",
+                          "name": "st_picture",
+                          "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                        },
+                        "uid": ""
+                      },
+                      "1": {
+                        "editors": {
+                          "st_dom": {
+                            "0": {
+                              "content": {
+                                "1": {
+                                  "content": {
+                                    "0": "Mit Kaia erhalten Sie einen digitalen Zugang zu einfachen und effektiven Übungen, die Ihnen dabei helfen, Ihre Rückenschmerzen zu lindern - auf Ihrem Smartphone oder Tablet."
+                                  },
+                                  "template": {
+                                    "name": "b"
+                                  }
+                                }
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "1": {
+                              "content": {
+                                "0": "Kaia bietet Ihnen als zertifiziertes Medizinprodukt:",
+                                "1": {
+                                  "content": {},
+                                  "template": {
+                                    "name": "br"
+                                  }
+                                },
+                                "3": {
+                                  "content": {
+                                    "1": {
+                                      "content": {
+                                        "0": "einen iindividualisierten Übungsplan basierend auf der multimodalen Schmerztherapie,"
+                                      },
+                                      "editors": {
+                                        "pre": "?",
+                                        "style": "1"
+                                      },
+                                      "template": {
+                                        "name": "li"
+                                      }
+                                    },
+                                    "3": {
+                                      "content": {
+                                        "0": "eine sinnvolle Ergänzung zur bisherigen Physiotherapie und"
+                                      },
+                                      "editors": {
+                                        "pre": "?",
+                                        "style": "1"
+                                      },
+                                      "template": {
+                                        "name": "li"
+                                      }
+                                    },
+                                    "5": {
+                                      "content": {
+                                        "0": "nachgewiesene Schmerzbesserung durch Teilnahme an der App"
+                                      },
+                                      "editors": {
+                                        "pre": "?",
+                                        "style": "1"
+                                      },
+                                      "template": {
+                                        "name": "li"
+                                      }
+                                    }
+                                  },
+                                  "editors": {
+                                    "pre": "?",
+                                    "style": "1"
+                                  },
+                                  "template": {
+                                    "name": "ul"
+                                  }
+                                }
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "2": {
+                              "content": {
+                                "0": "Dieser Service steht all unseren Vollversicherten zur Verfügung. Wenn Sie Kaia nutzen möchten, rufen Sie einfach unsere Gesundheitsberater unter 0221 308 54511 an."
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            },
+                            "3": {
+                              "content": {
+                                "1": {
+                                  "editors": {
+                                    "lt_external_url": "https://www.gothaer.de",
+                                    "lt_isExternal": true,
+                                    "lt_style": "primary",
+                                    "lt_text": "ich bin ein Button"
+                                  },
+                                  "template": {
+                                    "name": "lt_button"
+                                  }
+                                }
+                              },
+                              "template": {
+                                "name": "p"
+                              }
+                            }
+                          },
+                          "st_responsive_grid_desktop": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_smartphone": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          },
+                          "st_responsive_grid_tablet": {
+                            "tt_column": 12,
+                            "tt_name": "12"
+                          }
+                        },
+                        "hasMeta": null,
+                        "sectionId": "c350f7d8-1c4a-4574-b320-50f829c61f47",
+                        "template": {
+                          "display_name": "Text",
+                          "name": "st_dom",
+                          "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                        },
+                        "uid": ""
+                      }
+                    },
+                    "tt_name": "Kaia"
+                  },
+                  "hasMeta": null,
+                  "sectionId": "128",
+                  "template": {
+                    "display_name": "snippets",
+                    "name": "content_snippets.snippets",
+                    "type": "de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+                  },
+                  "uid": ""
+                }
+              },
+              "fs_id": 192,
+              "uuid": "null"
+            }
+          },
+          "meta": {
+            "hasMeta": false
+          },
+          "multipageparams": {
+            "data.size": 3,
+            "entitiesPerPage": 3,
+            "offset": 0,
+            "pageCount": 1
+          },
+          "sectionId": 2000595,
+          "template": {
+            "display_name": "snippet_categories",
+            "name": "content_snippets.snippet_categories",
+            "type": "de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+          },
+          "uid": "snippet_categories"
+        }
+      }
     },
-    {
-      "id": 2,
-      "name": "001100",
-      "description": "Electric Scooter",
-      "latitude": 52.529103,
-      "longitude": 13.416255,
-      "batteryLevel": 11,
-      "timestamp": "2019-03-10T11:15:22Z",
-      "price": 20,
-      "priceTime": 60,
-      "currency": "€"
+    "editors": {},
+    "filename": "snippet_categories",
+    "meta": {
+      "node": {
+        "add": {
+          "md_datalayer": {
+            "0": {}
+          },
+          "md_nav": {
+            "0": {}
+          }
+        },
+        "hasMeta": false,
+        "inherit": {
+          "md_change_pagetitle_suffix": false,
+          "md_datalayer": {},
+          "md_nav": {},
+          "md_nofollow": false,
+          "md_noindex": false,
+          "md_pagetitle_suffix": " | Gothaer",
+          "md_structureddata": {}
+        },
+        "none": {}
+      },
+      "page": {
+        "hasMeta": false
+      }
     },
-    {
-      "id": 3,
-      "name": "001111",
-      "description": "Electric Scooter",
-      "latitude": 52.531478,
-      "longitude": 13.415641,
-      "batteryLevel": 69,
-      "timestamp": "2019-03-10T19:55:56Z",
-      "price": 15,
-      "priceTime": 60,
-      "currency": "€"
+    "nodeId": 2000596,
+    "nodeuid": "snippet_categories",
+    "pageId": 2000593,
+    "pageuid": "snippet_categories",
+    "projectProperties": {
+      "ps_contentsupplier_preview_uri": "https://www.gothaer.de/renderjson/?stage=fs5preview",
+      "ps_default_kampagnenschluessel": "51010111001",
+      "ps_error_kampagnenschluessel": "51010111002",
+      "ps_meta_add_blacklist": "md_canonical_reference,md_change_pagetitle_suffix,md_meta_description,md_nofollow,md_noindex,md_pagetitle,md_pagetitle_suffix,md_search_description,md_search_keywords,md_structureddata,md_canonical_url",
+      "ps_seo_kampagnenschluessel": "51090111013"
     },
-    {
-      "id": 4,
-      "name": "110000",
-      "description": "Electric Scooter",
-      "latitude": 52.536722,
-      "longitude": 13.402195,
-      "batteryLevel": 3,
-      "timestamp": "2019-03-11T09:31:56Z",
-      "price": 15,
-      "priceTime": 60,
-      "currency": "€"
+    "sitestore": {
+      "1": {
+        "active": false,
+        "children": {
+          "2": {
+            "label": "elan_einstieg",
+            "lastmod": 1571840925552,
+            "page_id": 1916574,
+            "parent_index": 1,
+            "ref": "/de-1/elan/elan-einstieg.json"
+          },
+          "3": {
+            "label": "elan_einstieg_makler",
+            "lastmod": 1580829317247,
+            "page_id": 1916581,
+            "parent_index": 1,
+            "ref": "/de-1/elan/elan-einstieg-makler.json"
+          }
+        },
+        "folder_id": 1916573,
+        "id": 1916574,
+        "label": "ELAN",
+        "lastmod": 1571840925552,
+        "ref": "/de-1/elan/elan-einstieg.json"
+      },
+      "4": {
+        "active": false,
+        "children": {
+          "5": {
+            "active": false,
+            "children": {
+              "6": {
+                "label": "pt_standard_10",
+                "lastmod": 1579878744811,
+                "page_id": 1916597,
+                "parent_index": 5,
+                "ref": "/de-1/taa/kvvoll/pt-standard-10.json"
+              }
+            },
+            "folder_id": 1916596,
+            "id": 1916597,
+            "label": "KVVoll",
+            "lastmod": 1579878744811,
+            "parent_index": 4,
+            "ref": "/de-1/taa/kvvoll/pt-standard-10.json"
+          }
+        },
+        "folder_id": 1916595,
+        "id": 1916597,
+        "label": "TAA",
+        "lastmod": 1579878744811,
+        "ref": "/de-1/taa/kvvoll/pt-standard-10.json"
+      },
+      "7": {
+        "active": false,
+        "children": {
+          "8": {
+            "active": false,
+            "children": {
+              "9": {
+                "label": "gesund_app_html_snippet_1",
+                "lastmod": 1596128059134,
+                "page_id": 1999802,
+                "parent_index": 8,
+                "ref": "/de-1/gesund-app/gesunder-lebensstil/familiengesundheit.json"
+              }
+            },
+            "folder_id": 1999801,
+            "id": 1999802,
+            "label": "gesunder Lebensstil",
+            "lastmod": 1596128059134,
+            "parent_index": 7,
+            "ref": "/de-1/gesund-app/gesunder-lebensstil/familiengesundheit.json"
+          },
+          "10": {
+            "active": false,
+            "children": {
+              "11": {
+                "label": "gesund_app_html_snippet_2",
+                "lastmod": 1600167800348,
+                "page_id": 1999804,
+                "parent_index": 10,
+                "ref": "/de-1/gesund-app/services/kaia.json"
+              }
+            },
+            "folder_id": 1999803,
+            "id": 1999804,
+            "label": "services",
+            "lastmod": 1600167800348,
+            "parent_index": 7,
+            "ref": "/de-1/gesund-app/services/kaia.json"
+          },
+          "12": {
+            "label": "gesund_app_html_snippet",
+            "lastmod": 1596015300605,
+            "page_id": 1956980,
+            "parent_index": 7,
+            "ref": "/de-1/gesund-app/gesund-app-html-snippet.json"
+          }
+        },
+        "folder_id": 1956979,
+        "id": 1956980,
+        "label": "gesund_app",
+        "lastmod": 1596015300605,
+        "ref": "/de-1/gesund-app/gesund-app-html-snippet.json"
+      },
+      "13": {
+        "active": true,
+        "children": {
+          "14": {
+            "active": true,
+            "children": {
+              "15": {
+                "label": "gesund_app_html_snippet",
+                "lastmod": 1596015300605,
+                "page_id": 2000634,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/gesund-app-html-snippet.json"
+              },
+              "16": {
+                "label": "snippet_beispiel",
+                "lastmod": 1596129030993,
+                "page_id": 2000606,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-beispiel.json"
+              },
+              "17": {
+                "label": "snippet_categories",
+                "lastmod": 1596128059134,
+                "page_id": 2000596,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-categories.json"
+              },
+              "18": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000621,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-197.json"
+              },
+              "19": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000621,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-196.json"
+              },
+              "20": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000621,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-195.json"
+              },
+              "21": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000621,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-128.json"
+              },
+              "22": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000627,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-195-2.json"
+              },
+              "23": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000628,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-128-2.json"
+              },
+              "24": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000626,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-197-2.json"
+              },
+              "25": {
+                "label": "snippets_1",
+                "lastmod": 1563199936074,
+                "page_id": 2000626,
+                "parent_index": 14,
+                "ref": "/de-1/gesund/app/snippet-196-2.json"
+              }
+            },
+            "folder_id": 2000598,
+            "id": 2000596,
+            "label": "app",
+            "lastmod": 1596128059134,
+            "parent_index": 13,
+            "ref": "/de-1/gesund/app/snippet-categories.json"
+          }
+        },
+        "folder_id": 2000597,
+        "id": 2000596,
+        "label": "gesund",
+        "lastmod": 1596128059134,
+        "ref": "/de-1/gesund/app/snippet-categories.json"
+      },
+      "26": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-7500.json"
+      },
+      "27": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-7385.json"
+      },
+      "28": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-7041.json"
+      },
+      "29": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-7022.json"
+      },
+      "30": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6857.json"
+      },
+      "31": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6725.json"
+      },
+      "32": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6657.json"
+      },
+      "33": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6550.json"
+      },
+      "34": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6459.json"
+      },
+      "35": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6348.json"
+      },
+      "36": {
+        "label": "key_value_cp",
+        "lastmod": 1571844910029,
+        "page_id": 1916588,
+        "ref": "/de-1/key-value-cp-6343.json"
+      }
     },
-    {
-      "id": 5,
-      "name": "110011",
-      "description": "Electric Scooter",
-      "latitude": 52.523395,
-      "longitude": 13.391886,
-      "batteryLevel": 45,
-      "timestamp": "2019-03-10T09:14:52Z",
-      "price": 20,
-      "priceTime": 60,
-      "currency": "€"
-    },
-    {
-      "id": 6,
-      "name": "111111",
-      "description": "Electric Scooter",
-      "latitude": 52.523395,
-      "longitude": 13.391386,
-      "batteryLevel": 88,
-      "timestamp": "2019-03-10T12:18:52Z",
-      "price": 15,
-      "priceTime": 60,
-      "currency": "€"
+    "template": {
+      "display_name": "pt_standard",
+      "name": "pt_standard",
+      "type": "de.espirit.firstspirit.store.access.templatestore.PageTemplateImpl"
     }
+  }
   ]
 }
