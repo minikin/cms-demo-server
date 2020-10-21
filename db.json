@@ -4450,6 +4450,957 @@
             "type": "de.espirit.firstspirit.store.access.templatestore.PageTemplateImpl"
          }
 
+      },
+      {
+         "id": 130,
+         "bodies": {
+            "content": {
+               "0": {
+                  "entities": {
+                     "0": {
+                        "cs_category": {
+                           "fs_id": 132,
+                           "key": "gsnd_app_services",
+                           "name": "Services",
+                           "snippetsList": "snippetsList_[#1]"
+                        },
+                        "fs_id": 130,
+                        "st_elements": {
+                           "0": {
+                              "editors": {
+                                 "st_dom": {
+                                    "0": {
+                                       "content": {
+                                          "0": "Google News is a news aggregator service developed by Google"
+                                       },
+                                       "template": {
+                                          "name": "h1"
+                                       }
+                                    }
+                                 },
+                                 "st_responsive_grid_desktop": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 },
+                                 "st_responsive_grid_smartphone": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 },
+                                 "st_responsive_grid_tablet": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 }
+                              },
+                              "hasMeta": null,
+                              "sectionId": "61f3efd3-b813-4766-b791-1f9da15114f4",
+                              "template": {
+                                 "display_name": "Text",
+                                 "name": "st_dom",
+                                 "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                              },
+                              "uid": ""
+                           },
+                           "1": {
+                              "editors": {
+                                 "st_img_ref": {
+                                    "media": {
+                                       "description": "Gothaer Versicherungen: Logo des Gothaer Konzerns mit Sitz in Köln",
+                                       "hasMeta": false,
+                                       "resolutions": {
+                                          "1_1_large": {
+                                             "extension": "png",
+                                             "height": 295,
+                                             "mimetype": "image/png",
+                                             "size": 77868,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_1_1_large.png",
+                                             "width": 900
+                                          },
+                                          "1_1_medium": {
+                                             "extension": "png",
+                                             "height": 252,
+                                             "mimetype": "image/png",
+                                             "size": 57941,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_1_1_medium.png",
+                                             "width": 768
+                                          },
+                                          "1_1_small": {
+                                             "extension": "png",
+                                             "height": 168,
+                                             "mimetype": "image/png",
+                                             "size": 30036,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_1_1_small.png",
+                                             "width": 512
+                                          },
+                                          "20_7_large": {
+                                             "extension": "png",
+                                             "height": 629,
+                                             "mimetype": "image/png",
+                                             "size": 323242,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_20_7_large.png",
+                                             "width": 1920
+                                          },
+                                          "20_7_medium": {
+                                             "extension": "png",
+                                             "height": 472,
+                                             "mimetype": "image/png",
+                                             "size": 188451,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_20_7_medium.png",
+                                             "width": 1440
+                                          },
+                                          "20_7_small": {
+                                             "extension": "png",
+                                             "height": 419,
+                                             "mimetype": "image/png",
+                                             "size": 150622,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_20_7_small.png",
+                                             "width": 1280
+                                          },
+                                          "21_9_large": {
+                                             "extension": "png",
+                                             "height": 524,
+                                             "mimetype": "image/png",
+                                             "size": 227009,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_21_9_large.png",
+                                             "width": 1600
+                                          },
+                                          "21_9_medium": {
+                                             "extension": "png",
+                                             "height": 419,
+                                             "mimetype": "image/png",
+                                             "size": 150622,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_21_9_medium.png",
+                                             "width": 1280
+                                          },
+                                          "21_9_small": {
+                                             "extension": "png",
+                                             "height": 252,
+                                             "mimetype": "image/png",
+                                             "size": 57941,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_21_9_small.png",
+                                             "width": 768
+                                          },
+                                          "2_3_large": {
+                                             "extension": "png",
+                                             "height": 197,
+                                             "mimetype": "image/png",
+                                             "size": 36491,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_2_3_large.png",
+                                             "width": 600
+                                          },
+                                          "2_3_medium": {
+                                             "extension": "png",
+                                             "height": 168,
+                                             "mimetype": "image/png",
+                                             "size": 30036,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_2_3_medium.png",
+                                             "width": 512
+                                          },
+                                          "2_3_small": {
+                                             "extension": "png",
+                                             "height": 140,
+                                             "mimetype": "image/png",
+                                             "size": 21294,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_2_3_small.png",
+                                             "width": 426
+                                          },
+                                          "3_2_large": {
+                                             "extension": "png",
+                                             "height": 295,
+                                             "mimetype": "image/png",
+                                             "size": 77868,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_3_2_large.png",
+                                             "width": 900
+                                          },
+                                          "3_2_medium": {
+                                             "extension": "png",
+                                             "height": 252,
+                                             "mimetype": "image/png",
+                                             "size": 57941,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_3_2_medium.png",
+                                             "width": 768
+                                          },
+                                          "3_2_small": {
+                                             "extension": "png",
+                                             "height": 210,
+                                             "mimetype": "image/png",
+                                             "size": 41561,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_3_2_small.png",
+                                             "width": 640
+                                          },
+                                          "3_4_large": {
+                                             "extension": "png",
+                                             "height": 265,
+                                             "mimetype": "image/png",
+                                             "size": 63477,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_3_4_large.png",
+                                             "width": 810
+                                          },
+                                          "3_4_medium": {
+                                             "extension": "png",
+                                             "height": 236,
+                                             "mimetype": "image/png",
+                                             "size": 51641,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_3_4_medium.png",
+                                             "width": 720
+                                          },
+                                          "3_4_small": {
+                                             "extension": "png",
+                                             "height": 138,
+                                             "mimetype": "image/png",
+                                             "size": 20755,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_3_4_small.png",
+                                             "width": 420
+                                          },
+                                          "4_3_large": {
+                                             "extension": "png",
+                                             "height": 472,
+                                             "mimetype": "image/png",
+                                             "size": 188451,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_4_3_large.png",
+                                             "width": 1440
+                                          },
+                                          "4_3_medium": {
+                                             "extension": "png",
+                                             "height": 335,
+                                             "mimetype": "image/png",
+                                             "size": 99449,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_4_3_medium.png",
+                                             "width": 1024
+                                          },
+                                          "4_3_small": {
+                                             "extension": "png",
+                                             "height": 210,
+                                             "mimetype": "image/png",
+                                             "size": 41561,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen_4_3_small.png",
+                                             "width": 640
+                                          },
+                                          "ORIGINAL": {
+                                             "extension": "png",
+                                             "height": 131,
+                                             "mimetype": "image/png",
+                                             "size": 6263,
+                                             "type": "picture",
+                                             "uri": "/media/n/static/logo-gothaer-versicherungen.png",
+                                             "width": 400
+                                          }
+                                       }
+                                    },
+                                    "type": "mediaref"
+                                 },
+                                 "st_isImgRefResponsive": false,
+                                 "st_responsive_grid_desktop": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 },
+                                 "st_responsive_grid_smartphone": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 },
+                                 "st_responsive_grid_tablet": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 }
+                              },
+                              "hasMeta": null,
+                              "sectionId": "d567253c-15cd-4926-b4fe-0400aa7596e1",
+                              "template": {
+                                 "display_name": "Bild",
+                                 "name": "st_picture",
+                                 "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                              },
+                              "uid": ""
+                           },
+                           "2": {
+                              "editors": {
+                                 "st_dom": {
+                                    "0": {
+                                       "content": {
+                                          "0": "Our mission is to provide developers with an open source, high-productivity framework for building beautiful, native apps on any platform. So far, we?ve shipped production-quality support for Android and iOS, with eight stable releases and over 100,000 apps shipped to the Google Play Store alone. We continue to broaden our focus to include other platforms including web, macOS, and Linux. Today, we?re pleased to announce an additional target for Flutter with the alpha release of Flutter support for Windows."
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "1": {
+                                       "content": {
+                                          "0": "Windows remains a popular choice for desktop and laptop devices, with Microsoft reporting over ",
+                                          "1": {
+                                             "editors": {
+                                                "lt_external_url": "https://blogs.windows.com/windowsexperience/2020/03/16/windows-10-powering-the-world-with-1-billion-monthly-active-devices/",
+                                                "lt_isExternal": true,
+                                                "lt_style": "",
+                                                "lt_text": "one billion active devices"
+                                             },
+                                             "template": {
+                                                "name": "lt_link"
+                                             }
+                                          },
+                                          "2": " running Windows 10. Our own statistics show that over half of all Flutter developers use Windows, so it?s a natural target for Flutter. Native desktop support opens up a variety of exciting possibilities for Flutter, including improved developer tooling, reduced friction for new users, and of course apps that can reach any device a user might have from a single codebase. "
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "2": {
+                                       "content": {
+                                          "0": "Adding Windows to Flutter"
+                                       },
+                                       "template": {
+                                          "name": "h1"
+                                       }
+                                    },
+                                    "3": {
+                                       "content": {
+                                          "0": "As described in our ",
+                                          "1": {
+                                             "editors": {
+                                                "lt_external_url": "https://flutter.dev/docs/resources/architectural-overview",
+                                                "lt_isExternal": true,
+                                                "lt_style": "",
+                                                "lt_text": "architectural overview"
+                                             },
+                                             "template": {
+                                                "name": "lt_link"
+                                             }
+                                          },
+                                          "2": ", Flutter is a cross-platform UI toolkit that is designed to allow code reuse across operating systems such as iOS and Android, while also allowing applications to interface directly with underlying platform services. The goal is to enable developers to deliver high-performance apps that feel natural on different platforms, embracing differences where they exist while sharing as much code as possible. At the core of Flutter is the engine, which supports the primitives necessary to support all Flutter applications. The engine is responsible for rasterizing composited scenes whenever a new frame needs to be painted. It provides the low-level implementation of Flutter?s core API, "
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "4": {
+                                       "content": {
+                                          "0": "including graphics, text layout, file and network I/O, accessibility support, plugin architecture, and a Dart runtime and compile toolchain."
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "5": {
+                                       "content": {
+                                          "0": "Each new platform we add to Flutter expands the core framework with new services to enable it to shine on that platform. We started on Android and iOS with Material Design as well as a touch-based, mobile-centric user interface that is designed to be pixel-perfect on both mobile platforms. Adding support for desktop form factors with web, Windows, macOS, "
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "6": {
+                                       "content": {
+                                          "0": "and Linux brings a whole new set of services, including robust support for keyboards, mice, mouse wheels and controllers on the input side as well as widgets that adapt or even work best at the larger screen sizes that come with web and desktop apps."
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "7": {
+                                       "content": {
+                                          "0": "Furthermore, each new platform doesn?t just influence the Flutter framework and engine, but a lot of other things as well:"
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "8": {
+                                       "content": {
+                                          "1": {
+                                             "content": {
+                                                "1": {
+                                                   "content": {
+                                                      "1": {
+                                                         "content": {
+                                                            "0": "Toolchain updates"
+                                                         },
+                                                         "template": {
+                                                            "name": "b"
+                                                         }
+                                                      },
+                                                      "2": ": adding a new target to the CLI and IDE tools (in this case Windows)"
+                                                   },
+                                                   "template": {
+                                                      "name": "li"
+                                                   }
+                                                },
+                                                "3": {
+                                                   "content": {
+                                                      "1": {
+                                                         "content": {
+                                                            "0": "Shell:"
+                                                         },
+                                                         "template": {
+                                                            "name": "b"
+                                                         }
+                                                      },
+                                                      "2": " support for handling input from Windows via WM_* messages and output via ",
+                                                      "3": {
+                                                         "editors": {
+                                                            "lt_external_url": "https://opensource.google/projects/angle",
+                                                            "lt_isExternal": true,
+                                                            "lt_style": "",
+                                                            "lt_text": "ANGLE,"
+                                                         },
+                                                         "template": {
+                                                            "name": "lt_link"
+                                                         }
+                                                      },
+                                                      "4": " which uses ",
+                                                      "5": {
+                                                         "editors": {
+                                                            "lt_external_url": "https://skia.org/",
+                                                            "lt_isExternal": true,
+                                                            "lt_style": "",
+                                                            "lt_text": "Skia"
+                                                         },
+                                                         "template": {
+                                                            "name": "lt_link"
+                                                         }
+                                                      },
+                                                      "6": " to render at native speed to an underlying DirectX surface"
+                                                   },
+                                                   "template": {
+                                                      "name": "li"
+                                                   }
+                                                },
+                                                "5": {
+                                                   "content": {
+                                                      "1": {
+                                                         "content": {
+                                                            "0": "Runner:"
+                                                         },
+                                                         "template": {
+                                                            "name": "b"
+                                                         }
+                                                      },
+                                                      "2": " every project gets a shell application for the supported targets. For Windows, it?s a Win32/C++ program that loads your Flutter code and executes it at runtime. It?s a good place to add native code to your app if you need it."
+                                                   },
+                                                   "template": {
+                                                      "name": "li"
+                                                   }
+                                                },
+                                                "7": {
+                                                   "content": {
+                                                      "1": {
+                                                         "content": {
+                                                            "0": "Plugins:"
+                                                         },
+                                                         "template": {
+                                                            "name": "b"
+                                                         }
+                                                      },
+                                                      "2": " A plugin is a mixture of Dart code and native code for each of the platforms that the plugin supports. That native code needs to be added for each plugin that is compiled into your Flutter app on Windows."
+                                                   },
+                                                   "template": {
+                                                      "name": "li"
+                                                   }
+                                                }
+                                             },
+                                             "template": {
+                                                "name": "ul"
+                                             }
+                                          }
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "9": {
+                                       "content": {
+                                          "0": "This alpha release offers a solid foundation that we?ll stabilize over the coming months. With support for Windows 7 and above, we hope this gives adventurous developers something to get started with."
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "10": {
+                                       "content": {
+                                          "1": {
+                                             "content": {
+                                                "0": "Exploring some sample apps"
+                                             },
+                                             "template": {
+                                                "name": "span_h1_inline"
+                                             }
+                                          }
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "11": {
+                                       "content": {
+                                          "0": "To see Flutter support for Windows in action, you might want to try out some of the sample apps that we?ve created that run well on Windows with our newly-added support. The first, the Flokk app, was created in concert with the designers and developers at ",
+                                          "1": {
+                                             "editors": {
+                                                "lt_external_url": "gskinner.com",
+                                                "lt_isExternal": true,
+                                                "lt_style": "",
+                                                "lt_text": "gskinner.com"
+                                             },
+                                             "template": {
+                                                "name": "lt_link"
+                                             }
+                                          },
+                                          "2": ". The goal was to demonstrate that Flutter was ready for the desktop by creating an innovative, beautiful Flutter desktop app. Flokk is an app that works with your real Google Contacts data as well as showing your contacts? activity on GitHub and Twitter. "
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "12": {
+                                       "content": {
+
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "13": {
+                                       "content": {
+
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "14": {
+                                       "content": {
+                                          "0": " "
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    },
+                                    "15": {
+                                       "content": {
+                                          "1": {
+                                             "editors": {
+                                                "lt_external_url": "https://www.gothaer.de",
+                                                "lt_isExternal": true,
+                                                "lt_style": "primary",
+                                                "lt_text": "ich bin ein Button"
+                                             },
+                                             "template": {
+                                                "name": "lt_button"
+                                             }
+                                          }
+                                       },
+                                       "template": {
+                                          "name": "p"
+                                       }
+                                    }
+                                 },
+                                 "st_responsive_grid_desktop": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 },
+                                 "st_responsive_grid_smartphone": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 },
+                                 "st_responsive_grid_tablet": {
+                                    "tt_column": 12,
+                                    "tt_name": "12"
+                                 }
+                              },
+                              "hasMeta": null,
+                              "sectionId": "c350f7d8-1c4a-4574-b320-50f829c61f47",
+                              "template": {
+                                 "display_name": "Text",
+                                 "name": "st_dom",
+                                 "type": "de.espirit.firstspirit.store.access.templatestore.SectionTemplateImpl"
+                              },
+                              "uid": ""
+                           }
+                        },
+                        "tt_name": "Announcing Flutter",
+                        "uuid": "d3b877a1-ccaa-4e63-8d06-0ae00e6d8ed0"
+                     }
+                  },
+                  "meta": {
+                     "hasMeta": false
+                  },
+                  "multipageparams": {
+                     "data.size": 5,
+                     "entitiesPerPage": 1,
+                     "offset": 1,
+                     "pageCount": 5
+                  },
+                  "sectionId": 5518700,
+                  "template": {
+                     "display_name": "snippets",
+                     "name": "content_snippets.snippets",
+                     "type": "de.espirit.firstspirit.store.access.templatestore.TableTemplateImpl"
+                  },
+                  "uid": "snippets"
+               }
+            }
+         },
+         "editors": {
+
+         },
+         "filename": "snippet",
+         "meta": {
+            "node": {
+               "add": {
+                  "md_datalayer": {
+                     "0": {
+
+                     }
+                  },
+                  "md_nav": {
+                     "0": {
+
+                     }
+                  }
+               },
+               "hasMeta": false,
+               "inherit": {
+                  "md_change_pagetitle_suffix": false,
+                  "md_datalayer": {
+
+                  },
+                  "md_nav": {
+
+                  },
+                  "md_nofollow": false,
+                  "md_noindex": false,
+                  "md_pagetitle_suffix": " | Gothaer",
+                  "md_structureddata": {
+
+                  }
+               },
+               "none": {
+
+               }
+            },
+            "page": {
+               "hasMeta": false
+            }
+         },
+         "nodeId": 5568843,
+         "nodeuid": "snippets_all",
+         "pageId": 5518699,
+         "pageuid": "snippets_1",
+         "projectProperties": {
+            "ps_contentsupplier_preview_uri": "https://www.inter.dev1.gothaer.test/renderjson/?stage=fs5preview",
+            "ps_default_kampagnenschluessel": "51010111001",
+            "ps_error_kampagnenschluessel": "51010111002",
+            "ps_meta_add_blacklist": "md_canonical_reference,md_change_pagetitle_suffix,md_meta_description,md_nofollow,md_noindex,md_pagetitle,md_pagetitle_suffix,md_search_description,md_search_keywords,md_structureddata,md_canonical_url",
+            "ps_seo_kampagnenschluessel": "51090111013"
+         },
+         "sitestore": {
+            "1": {
+               "active": false,
+               "children": {
+                  "2": {
+                     "label": "elan_einstieg",
+                     "lastmod": 1571840925552,
+                     "page_id": 5523752,
+                     "parent_index": 1,
+                     "ref": "/de-1/elan/elan-einstieg.json"
+                  },
+                  "3": {
+                     "label": "elan_einstieg_makler",
+                     "lastmod": 1571823928979,
+                     "page_id": 5523759,
+                     "parent_index": 1,
+                     "ref": "/de-1/elan/elan-einstieg-makler.json"
+                  }
+               },
+               "folder_id": 5523751,
+               "id": 5523752,
+               "label": "ELAN",
+               "lastmod": 1571840925552,
+               "ref": "/de-1/elan/elan-einstieg.json"
+            },
+            "4": {
+               "active": false,
+               "children": {
+                  "5": {
+                     "active": false,
+                     "children": {
+                        "6": {
+                           "label": "pt_standard_10",
+                           "lastmod": 1579878744811,
+                           "page_id": 5523775,
+                           "parent_index": 5,
+                           "ref": "/de-1/taa/kvvoll/pt-standard-10.json"
+                        }
+                     },
+                     "folder_id": 5523774,
+                     "id": 5523775,
+                     "label": "KVVoll",
+                     "lastmod": 1579878744811,
+                     "parent_index": 4,
+                     "ref": "/de-1/taa/kvvoll/pt-standard-10.json"
+                  }
+               },
+               "folder_id": 5523773,
+               "id": 5523775,
+               "label": "TAA",
+               "lastmod": 1579878744811,
+               "ref": "/de-1/taa/kvvoll/pt-standard-10.json"
+            },
+            "7": {
+               "active": false,
+               "children": {
+                  "8": {
+                     "active": false,
+                     "children": {
+                        "9": {
+                           "label": "gesund_app_html_snippet_1",
+                           "lastmod": 1600422757888,
+                           "page_id": 5568815,
+                           "parent_index": 8,
+                           "ref": "/de-1/gesund-app/gesunder-lebensstil/familiengesundheit.json"
+                        }
+                     },
+                     "folder_id": 5568839,
+                     "id": 5568815,
+                     "label": "gesunder Lebensstil",
+                     "lastmod": 1600422757888,
+                     "parent_index": 7,
+                     "ref": "/de-1/gesund-app/gesunder-lebensstil/familiengesundheit.json"
+                  },
+                  "10": {
+                     "active": false,
+                     "children": {
+                        "11": {
+                           "label": "gesund_app_html_snippet_2",
+                           "lastmod": 1598455682302,
+                           "page_id": 5568817,
+                           "parent_index": 10,
+                           "ref": "/de-1/gesund-app/services/kaia.json"
+                        }
+                     },
+                     "folder_id": 5568840,
+                     "id": 5568817,
+                     "label": "services",
+                     "lastmod": 1598455682302,
+                     "parent_index": 7,
+                     "ref": "/de-1/gesund-app/services/kaia.json"
+                  },
+                  "12": {
+                     "label": "gesund_app_html_snippet",
+                     "lastmod": 1600340662955,
+                     "page_id": 5568813,
+                     "parent_index": 7,
+                     "ref": "/de-1/gesund-app/gesund-app-html-snippet.json"
+                  }
+               },
+               "folder_id": 5568838,
+               "id": 5568813,
+               "label": "gesund_app",
+               "lastmod": 1600340662955,
+               "ref": "/de-1/gesund-app/gesund-app-html-snippet.json"
+            },
+            "13": {
+               "active": true,
+               "children": {
+                  "14": {
+                     "active": true,
+                     "children": {
+                        "15": {
+                           "label": "gesund_app_html_snippet",
+                           "lastmod": 1600340662955,
+                           "page_id": 5568848,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/gesund-app-html-snippet.json"
+                        },
+                        "16": {
+                           "label": "snippet_beispiel",
+                           "lastmod": 1598455682302,
+                           "page_id": 5568847,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-beispiel.json"
+                        },
+                        "17": {
+                           "label": "snippet_categories",
+                           "lastmod": 1598455682302,
+                           "page_id": 5568819,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-categories.json"
+                        },
+                        "18": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568843,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-192.json"
+                        },
+                        "19": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568843,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-131.json"
+                        },
+                        "20": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568843,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-130.json"
+                        },
+                        "21": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568843,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-129.json"
+                        },
+                        "22": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568843,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-128.json"
+                        },
+                        "23": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568845,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-192-2.json"
+                        },
+                        "24": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568845,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-129-2.json"
+                        },
+                        "25": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568846,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-131-2.json"
+                        },
+                        "26": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568844,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-130-2.json"
+                        },
+                        "27": {
+                           "label": "snippets_1",
+                           "lastmod": 1563199936074,
+                           "page_id": 5568844,
+                           "parent_index": 14,
+                           "ref": "/de-1/gesund/app/snippet-128-2.json"
+                        }
+                     },
+                     "folder_id": 5568842,
+                     "id": 5568819,
+                     "label": "app",
+                     "lastmod": 1598455682302,
+                     "parent_index": 13,
+                     "ref": "/de-1/gesund/app/snippet-categories.json"
+                  }
+               },
+               "folder_id": 5568841,
+               "id": 5568819,
+               "label": "gesund",
+               "lastmod": 1598455682302,
+               "ref": "/de-1/gesund/app/snippet-categories.json"
+            },
+            "28": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-7363.json"
+            },
+            "29": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-7322.json"
+            },
+            "30": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-7096.json"
+            },
+            "31": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-7025.json"
+            },
+            "32": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6857.json"
+            },
+            "33": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6725.json"
+            },
+            "34": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6657.json"
+            },
+            "35": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6550.json"
+            },
+            "36": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6459.json"
+            },
+            "37": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6348.json"
+            },
+            "38": {
+               "label": "key_value_cp",
+               "lastmod": 1571844910029,
+               "page_id": 5523766,
+               "ref": "/de-1/key-value-cp-6343.json"
+            }
+         },
+         "template": {
+            "display_name": "pt_standard",
+            "name": "pt_standard",
+            "type": "de.espirit.firstspirit.store.access.templatestore.PageTemplateImpl"
+         }
+
       }
    ],
    "categories" : {
