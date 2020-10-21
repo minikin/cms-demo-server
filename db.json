@@ -1,7 +1,7 @@
 {
    "posts": [
       {
-         "id": 1,
+         "id": 192,
          "bodies": {
             "content": {
                "0": {
@@ -1189,7 +1189,7 @@
          }
       },
       {
-         "id": 2,
+         "id": 128,
          "bodies": {
             "content": {
                "0": {
@@ -1206,6 +1206,7 @@
                                     "name": "Unterstützung im Krankheitsfall",
                                     "snippetsList": "snippetsList_[#2]"
                                  },
+                                 "fs_id": 128,
                                  "st_elements": {
                                     "0": {
                                        "editors": {
@@ -2257,7 +2258,7 @@
          }
       },
       {
-         "id": 3,
+         "id": 129,
          "bodies": {
             "content": {
                "0": {
@@ -3500,7 +3501,7 @@
          }
       },
       {
-         "id": 4,
+         "id": 131,
          "bodies": {
             "content": {
                "0": {
